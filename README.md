@@ -13,6 +13,8 @@ Xiaoxue Han, [Yue Ning](https://yue-ning.github.io/)
 - **sklearn**
 - **dgl**
 
+### Sample dataset
+- **THA** (Event and news data in Bangkok, Thailand from 2010 to 2016) [Google Drive](https://drive.google.com/drive/folders/1xiZ5g90v5s33VcaCLeeJawMEb5-2BXez)
 <!-- ## Cite
 
 Please cite our paper if you find this code useful for your research:
