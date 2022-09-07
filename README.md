@@ -8,7 +8,7 @@ Xiaoxue Han, [Yue Ning](https://yue-ning.github.io/)
 - [ICEWS event data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075 "ICEWS event data") is available online.
 - ICEWS news data has not been released publicly. 
 
-## Prerequisites
+### Prerequisites
 The code has been successfully tested in the following environment. (For older versions, you may need to modify the code)
 - Python 3.8.3
 - PyTorch 1.10.0
