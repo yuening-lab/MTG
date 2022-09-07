@@ -6,7 +6,7 @@ Xiaoxue Han, [Yue Ning](https://yue-ning.github.io/)
 
 ### Data
 - [ICEWS event data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075 "ICEWS event data") is available online.
-- ICEWS news data has not been released publicly.（If you want to access the original news text information of the event, I suggest [GDELT data](https://www.gdeltproject.org/ "Link").）
+- ICEWS news data has not been released publicly. 
 
 ## Prerequisites
 The code has been successfully tested in the following environment. (For older versions, you may need to modify the code)
