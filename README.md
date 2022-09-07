@@ -8,10 +8,13 @@ Xiaoxue Han, [Yue Ning](https://yue-ning.github.io/)
 - [ICEWS event data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075 "ICEWS event data") is available online.
 - ICEWS news data has not been released publicly.（If you want to access the original news text information of the event, I suggest [GDELT data](https://www.gdeltproject.org/ "Link").）
 
-### Libraries
-- **PyTorch >= 1.0**
-- **sklearn**
-- **dgl**
+## Prerequisites
+The code has been successfully tested in the following environment. (For older dgl versions, you may need to modify the code)
+- Python 3.8.3
+- PyTorch 1.10.0
+- dgl 0.8.1
+- Sklearn 0.23.1
+- numpy 1.18.5
 
 ### Sample dataset
 - **THA** (Event and news data in Bangkok, Thailand from 2010 to 2016) [Google Drive](https://drive.google.com/drive/folders/1xiZ5g90v5s33VcaCLeeJawMEb5-2BXez)
