@@ -9,7 +9,7 @@ Xiaoxue Han, [Yue Ning](https://yue-ning.github.io/)
 - ICEWS news data has not been released publicly.（If you want to access the original news text information of the event, I suggest [GDELT data](https://www.gdeltproject.org/ "Link").）
 
 ## Prerequisites
-The code has been successfully tested in the following environment. (For older dgl versions, you may need to modify the code)
+The code has been successfully tested in the following environment. (For older versions, you may need to modify the code)
 - Python 3.8.3
 - PyTorch 1.10.0
 - dgl 0.8.1
