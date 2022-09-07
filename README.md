@@ -1,8 +1,8 @@
 ## MTG
-This is the source code for paper [Text-enhanced Multi-Granularity Temporal Graph
-Learning for Event Prediction] accepted by ICDM2022
+This is the source code for paper ``Text-enhanced Multi-Granularity Temporal Graph
+Learning for Event Prediction'' accepted by ICDM2022
 
-[Xiaoxue Han], [Yue Ning](https://yue-ning.github.io/)
+Xiaoxue Han, [Yue Ning](https://yue-ning.github.io/)
 
 ### Data
 - [ICEWS event data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/28075 "ICEWS event data") is available online.
