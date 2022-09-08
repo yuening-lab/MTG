@@ -20,7 +20,7 @@ The code has been successfully tested in the following environment. (For older v
 - **THA** (Event and news data in Bangkok, Thailand from 2010 to 2016) [Google Drive](https://drive.google.com/drive/folders/1xiZ5g90v5s33VcaCLeeJawMEb5-2BXez)
 
 ### Training and testing
-Please run following commands for training and testing. We take the dataset 'THA' as the example.
+Please run following commands for training and testing. We take the dataset `THA` as the example.
 ```python
 python train.py --data 'THA' -lt 1 -pw 1 -hw 7 --n_runs 1 
 ```
