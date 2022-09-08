@@ -29,11 +29,5 @@ python train.py --data 'THA' -lt 1 -pw 1 -hw 7 --n_runs 1
 Please cite our paper if you find this code useful for your research:
 
 ```
-@inproceedings{deng2019learning,
-  title={Learning Dynamic Context Graphs for Predicting Social Events},
-  author={Deng, Songgaojun and Rangwala, Huzefa and Ning, Yue},
-  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-  pages={1007--1016},
-  year={2019}
-}
+{citation}
 ``` -->
