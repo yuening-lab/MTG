@@ -29,6 +29,10 @@ python train.py --data 'THA' -lt 1 -pw 1 -hw 7 --n_runs 1
 Please cite our paper if you find this code useful for your research:
 
 ```
+X. Han and Y. Ning, "Text-enhanced Multi-Granularity Temporal Graph Learning for Event Prediction," 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 171-180, doi: 10.1109/ICDM54844.2022.00027.
+```
+
+```
 @INPROCEEDINGS{10027692,
   author={Han, Xiaoxue and Ning, Yue},
   booktitle={2022 IEEE International Conference on Data Mining (ICDM)}, 
