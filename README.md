@@ -1,6 +1,6 @@
 ## MTG
-This is the source code for paper ''Text-enhanced Multi-Granularity Temporal Graph
-Learning for Event Prediction'' accepted by ICDM 2022
+This is the source code for paper ''[Text-enhanced Multi-Granularity Temporal Graph
+Learning for Event Prediction](https://ieeexplore.ieee.org/document/10027692)'' appeared ICDM 2022 (regular paper). 
 
 Xiaoxue Han, [Yue Ning](https://yue-ning.github.io/)
 
@@ -32,6 +32,7 @@ Please cite our paper if you find this code useful for your research:
 X. Han and Y. Ning, "Text-enhanced Multi-Granularity Temporal Graph Learning for Event Prediction," 2022 IEEE International Conference on Data Mining (ICDM), Orlando, FL, USA, 2022, pp. 171-180, doi: 10.1109/ICDM54844.2022.00027.
 ```
 
+**BibTeX**
 ```
 @INPROCEEDINGS{10027692,
   author={Han, Xiaoxue and Ning, Yue},
