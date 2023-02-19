@@ -24,10 +24,9 @@ Please run following commands for training and testing. We take the dataset `THA
 ```python
 python train.py --data 'THA' -lt 1 -pw 1 -hw 7 --n_runs 1 
 ```
-<!-- ## Cite
+## Cite
 
 Please cite our paper if you find this code useful for your research:
-
 ```
-{citation}
-``` -->
+Xiaoxue Han, Yue Ning. Text-enhanced Multi-Granularity Temporal Graph Learning for Event Prediction. In Proceedings of the 22nd IEEE International Conference on Data Mining (ICDM). Regular Paper. Orlando, FL, USA. Nov. 28-Dec. 1, 2022.
+``` 
