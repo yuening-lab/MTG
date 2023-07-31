@@ -17,7 +17,7 @@ The code has been successfully tested in the following environment. (For older v
 - numpy 1.18.5
 
 ### Sample dataset
-- **THA** (Event and news data in Bangkok, Thailand from 2010 to 2016) [OneDrive]([https://drive.google.com/drive/folders/1xiZ5g90v5s33VcaCLeeJawMEb5-2BXez])
+- **THA** (Event and news data in Bangkok, Thailand from 2010 to 2016) [OneDrive](https://drive.google.com/drive/folders/1xiZ5g90v5s33VcaCLeeJawMEb5-2BXez)
 
 ### Training and testing
 Please run following commands for training and testing. We take the dataset `THA` as the example.
