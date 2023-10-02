@@ -1,6 +1,6 @@
 ## MTG
 This is the source code for paper ''[Text-enhanced Multi-Granularity Temporal Graph
-Learning for Event Prediction](https://ieeexplore.ieee.org/document/10027692)'' appeared ICDM 2022 (regular paper). 
+Learning for Event Prediction](https://ieeexplore.ieee.org/document/10027692)'' appeared in the proceedings of ICDM 2022 (regular paper). 
 
 Xiaoxue Han, [Yue Ning](https://yue-ning.github.io/)
 
@@ -20,7 +20,7 @@ The code has been successfully tested in the following environment. (For older v
 - **THA** (Event and news data in Bangkok, Thailand from 2010 to 2016) [OneDrive](https://stevens0-my.sharepoint.com/:f:/g/personal/xhan26_stevens_edu/Eoyh5QyFRjxLivWLB7ejJlMB_zVOuJgBPdBfTXMYQEX7hw)
 
 ### Training and testing
-Please run following commands for training and testing. We take the dataset `THA` as the example.
+Please run the following commands for training and testing. We take the dataset `THA` as the example.
 ```python
 python train.py --data 'THA' -lt 1 -pw 1 -hw 7 --n_runs 1 
 ```
